@@ -17,11 +17,6 @@
 	<servlet-class>ie.dit.mark.server.JsonStockData</servlet-class>
 </servlet>
 
-<servlet>
-	<servlet-name>JSD2</servlet-name>
-	<servlet-class>ie.dit.mark.server.JsonStockData2</servlet-class>
-</servlet>
-
 <servlet-mapping>
     <servlet-name>jsonStockData</servlet-name>
     <url-pattern>/stockwatcher/stockPrices</url-pattern>
