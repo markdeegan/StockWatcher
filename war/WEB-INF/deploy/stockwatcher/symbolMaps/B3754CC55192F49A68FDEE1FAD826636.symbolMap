@@ -545,7 +545,7 @@ Xi,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$1_2_
 Yi,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$2_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher$2_2_classLit,ie/dit/mark/client/StockWatcher.java,113,-1
 Zi,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$3_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher$3_2_classLit,ie/dit/mark/client/StockWatcher.java,120,-1
 $i,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$4_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher$4_2_classLit,ie/dit/mark/client/StockWatcher.java,165,-1
-_i,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$5_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher$5_2_classLit,ie/dit/mark/client/StockWatcher.java,219,-1
+_i,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher$5_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher$5_2_classLit,ie/dit/mark/client/StockWatcher.java,221,-1
 aj,com.google.gwt.lang.ClassLiteralHolder::Lie_dit_mark_client_StockWatcher_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Lie_dit_mark_client_StockWatcher_2_classLit,ie/dit/mark/client/StockWatcher.java,35,-1
 bj,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_AbstractStringBuilder_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_AbstractStringBuilder_2_classLit,com/google/gwt/emul/java/lang/AbstractStringBuilder.java,24,-1
 cj,com.google.gwt.lang.ClassLiteralHolder::Ljava_lang_ArithmeticException_2_classLit,com.google.gwt.lang.ClassLiteralHolder,Ljava_lang_ArithmeticException_2_classLit,com/google/gwt/emul/java/lang/ArithmeticException.java,26,-1
@@ -1023,11 +1023,11 @@ StockData,,ie.dit.mark.client.StockData,,ie/dit/mark/client/StockData.java,5,-1
 StockWatcher,,ie.dit.mark.client.StockWatcher,,ie/dit/mark/client/StockWatcher.java,35,-1
 lp,ie.dit.mark.client.StockWatcher::$addStock(Lie/dit/mark/client/StockWatcher;)V,ie.dit.mark.client.StockWatcher,$addStock,ie/dit/mark/client/StockWatcher.java,133,0
 kp,ie.dit.mark.client.StockWatcher::$clinit()V,ie.dit.mark.client.StockWatcher,$clinit,ie/dit/mark/client/StockWatcher.java,35,0
-mp,ie.dit.mark.client.StockWatcher::$displayError(Lie/dit/mark/client/StockWatcher;Ljava/lang/String;)V,ie.dit.mark.client.StockWatcher,$displayError,ie/dit/mark/client/StockWatcher.java,309,0
+mp,ie.dit.mark.client.StockWatcher::$displayError(Lie/dit/mark/client/StockWatcher;Ljava/lang/String;)V,ie.dit.mark.client.StockWatcher,$displayError,ie/dit/mark/client/StockWatcher.java,311,0
 np,ie.dit.mark.client.StockWatcher::$onModuleLoad(Lie/dit/mark/client/StockWatcher;)V,ie.dit.mark.client.StockWatcher,$onModuleLoad,ie/dit/mark/client/StockWatcher.java,55,0
-op,ie.dit.mark.client.StockWatcher::$refreshWatchList(Lie/dit/mark/client/StockWatcher;)V,ie.dit.mark.client.StockWatcher,$refreshWatchList,ie/dit/mark/client/StockWatcher.java,197,0
-pp,ie.dit.mark.client.StockWatcher::$updateTable(Lie/dit/mark/client/StockWatcher;Lcom/google/gwt/core/client/JsArray;)V,ie.dit.mark.client.StockWatcher,$updateTable,ie/dit/mark/client/StockWatcher.java,250,0
-qp,ie.dit.mark.client.StockWatcher::$updateTable(Lie/dit/mark/client/StockWatcher;Lie/dit/mark/client/StockData;)V,ie.dit.mark.client.StockWatcher,$updateTable,ie/dit/mark/client/StockWatcher.java,268,0
+op,ie.dit.mark.client.StockWatcher::$refreshWatchList(Lie/dit/mark/client/StockWatcher;)V,ie.dit.mark.client.StockWatcher,$refreshWatchList,ie/dit/mark/client/StockWatcher.java,198,0
+pp,ie.dit.mark.client.StockWatcher::$updateTable(Lie/dit/mark/client/StockWatcher;Lcom/google/gwt/core/client/JsArray;)V,ie.dit.mark.client.StockWatcher,$updateTable,ie/dit/mark/client/StockWatcher.java,252,0
+qp,ie.dit.mark.client.StockWatcher::$updateTable(Lie/dit/mark/client/StockWatcher;Lie/dit/mark/client/StockData;)V,ie.dit.mark.client.StockWatcher,$updateTable,ie/dit/mark/client/StockWatcher.java,270,0
 jp,ie.dit.mark.client.StockWatcher::JSON_URL,ie.dit.mark.client.StockWatcher,JSON_URL,ie/dit/mark/client/StockWatcher.java,40,-1
 rp,ie.dit.mark.client.StockWatcher::StockWatcher() <init>,ie.dit.mark.client.StockWatcher,StockWatcher,ie/dit/mark/client/StockWatcher.java,35,0
 a,ie.dit.mark.client.StockWatcher::addPanel,ie.dit.mark.client.StockWatcher,addPanel,ie/dit/mark/client/StockWatcher.java,45,-1
@@ -1054,10 +1054,10 @@ xp,ie.dit.mark.client.StockWatcher$4::StockWatcher$4(Lie/dit/mark/client/StockWa
 yp,ie.dit.mark.client.StockWatcher$4::onClick(Lcom/google/gwt/event/dom/client/ClickEvent;)V,ie.dit.mark.client.StockWatcher$4,onClick,ie/dit/mark/client/StockWatcher.java,166,0
 a,ie.dit.mark.client.StockWatcher$4::this$01,ie.dit.mark.client.StockWatcher$4,this$01,ie/dit/mark/client/StockWatcher.java,165,-1
 b,ie.dit.mark.client.StockWatcher$4::val$symbol2,ie.dit.mark.client.StockWatcher$4,val$symbol2,ie/dit/mark/client/StockWatcher.java,165,-1
-StockWatcher$5,,ie.dit.mark.client.StockWatcher$5,,ie/dit/mark/client/StockWatcher.java,219,-1
-zp,ie.dit.mark.client.StockWatcher$5::$onError(Lie/dit/mark/client/StockWatcher$5;Lcom/google/gwt/http/client/Request;Ljava/lang/Throwable;)V,ie.dit.mark.client.StockWatcher$5,$onError,ie/dit/mark/client/StockWatcher.java,221,0
-Ap,ie.dit.mark.client.StockWatcher$5::StockWatcher$5(Lie/dit/mark/client/StockWatcher;) <init>,ie.dit.mark.client.StockWatcher$5,StockWatcher$5,ie/dit/mark/client/StockWatcher.java,219,0
-a,ie.dit.mark.client.StockWatcher$5::this$01,ie.dit.mark.client.StockWatcher$5,this$01,ie/dit/mark/client/StockWatcher.java,219,-1
+StockWatcher$5,,ie.dit.mark.client.StockWatcher$5,,ie/dit/mark/client/StockWatcher.java,221,-1
+zp,ie.dit.mark.client.StockWatcher$5::$onError(Lie/dit/mark/client/StockWatcher$5;Lcom/google/gwt/http/client/Request;Ljava/lang/Throwable;)V,ie.dit.mark.client.StockWatcher$5,$onError,ie/dit/mark/client/StockWatcher.java,223,0
+Ap,ie.dit.mark.client.StockWatcher$5::StockWatcher$5(Lie/dit/mark/client/StockWatcher;) <init>,ie.dit.mark.client.StockWatcher$5,StockWatcher$5,ie/dit/mark/client/StockWatcher.java,221,0
+a,ie.dit.mark.client.StockWatcher$5::this$01,ie.dit.mark.client.StockWatcher$5,this$01,ie/dit/mark/client/StockWatcher.java,221,-1
 AbstractStringBuilder,,java.lang.AbstractStringBuilder,,com/google/gwt/emul/java/lang/AbstractStringBuilder.java,24,-1
 Bp,java.lang.AbstractStringBuilder::$charAt(Ljava/lang/AbstractStringBuilder;I)C,java.lang.AbstractStringBuilder,$charAt,com/google/gwt/emul/java/lang/AbstractStringBuilder.java,59,0
 Cp,java.lang.AbstractStringBuilder::$replace0(Ljava/lang/AbstractStringBuilder;IILjava/lang/String;)V,java.lang.AbstractStringBuilder,$replace0,com/google/gwt/emul/java/lang/AbstractStringBuilder.java,123,0

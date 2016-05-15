@@ -194,7 +194,8 @@ public class StockWatcher implements EntryPoint {
   }*/
   
 
-  private void refreshWatchList() {
+  @SuppressWarnings("unused")
+private void refreshWatchList() {
 		    if (stocks.size() == 0) {
 		      return;
 		    }
@@ -216,7 +217,8 @@ public class StockWatcher implements EntryPoint {
 	    // Send request to server and catch any errors. 
 	    RequestBuilder builder = new RequestBuilder(RequestBuilder.GET, url);
 	    try {
-    	  Request request = builder.sendRequest(null, new RequestCallback() {
+    	  @SuppressWarnings("unused")
+		Request request = builder.sendRequest(null, new RequestCallback() {
     	    
     		  public void onError(Request request, Throwable exception) {
     	      displayError("Couldn't retrieve JSON");
