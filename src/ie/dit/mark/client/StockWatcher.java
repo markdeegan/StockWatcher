@@ -38,8 +38,8 @@ public class StockWatcher implements EntryPoint {
     private static final int REFRESH_INTERVAL = 5000; // ms
     
     // private static final String JSON_URL = GWT.getModuleBaseURL() + "stockPrices?q=";
-    // private static final String JSON_URL = GWT.getModuleBaseURL() + "stockPrices?q=";
-    private static final String JSON_URL = "http://127.0.0.1/~mark/stockPrices.php?q=";
+    private static final String JSON_URL = GWT.getModuleBaseURL() + "stockPrices?q=";
+    // private static final String JSON_URL = "http://127.0.0.1/~mark/stockPrices.php?q=";
 
 	private VerticalPanel mainPanel = new VerticalPanel();
     private FlexTable stocksFlexTable = new FlexTable();

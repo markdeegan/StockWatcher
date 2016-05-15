@@ -1,3 +1,7 @@
+// M. Deegan //
+// JsonStockData Server //
+// Server to deliver random stock prices from web service to client via HTTP get //
+
 package ie.dit.mark.server;
 
 import java.io.IOException;
