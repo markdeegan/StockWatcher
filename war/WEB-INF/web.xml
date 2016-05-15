@@ -22,10 +22,4 @@
     <url-pattern>/stockwatcher/stockPrices</url-pattern>
 </servlet-mapping>
 
-<servlet-mapping>
-    <servlet-name>JSD</servlet-name>
-    <url-pattern>/stockwatcher/NewStockPrices</url-pattern>
-</servlet-mapping>
-
-
 </web-app>
