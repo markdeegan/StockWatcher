@@ -13,17 +13,17 @@
       <!-- Servlets -->
       
 <servlet>
-	<servlet-name>jsonStockData</servlet-name>
-	<servlet-class>ie.dit.mark.server.JsonStockData</servlet-class>
+	<servlet-name>JSD</servlet-name>
+	<servlet-class>ie.dit.mark.server.JSONStockData</servlet-class>
 </servlet>
 
 <servlet-mapping>
-    <servlet-name>jsonStockData</servlet-name>
+    <servlet-name>JSD</servlet-name>
     <url-pattern>/stockwatcher/stockPrices</url-pattern>
 </servlet-mapping>
 
 <servlet-mapping>
-    <servlet-name>jsonStockData</servlet-name>
+    <servlet-name>JSD</servlet-name>
     <url-pattern>/stockwatcher/NewStockPrices</url-pattern>
 </servlet-mapping>
 

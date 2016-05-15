@@ -1,5 +1,5 @@
 // M. Deegan //
-// JsonStockData Server //
+// JSONStockData Server //
 // Server to deliver random stock prices from web service to client via HTTP get //
 
 package ie.dit.mark.server;
@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class JsonStockData extends HttpServlet {
+public class JSONStockData extends HttpServlet {
 	
 	/**
 	 * 
